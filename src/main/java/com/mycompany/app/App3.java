@@ -10,4 +10,7 @@ public class App3
 	private void fn1()
 	{
 	}
+	private void fn3()
+	{
+	}
 }
